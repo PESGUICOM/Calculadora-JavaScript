@@ -11,7 +11,7 @@ h1 {
 h2 {
   text-align: center;
   margin-top: 10px;
-  color: #4a133f;
+  color: red;
 }
 
 .calculadora {
@@ -37,14 +37,14 @@ input[type="button"] {
   margin-right: 5px;
   margin-bottom: 5px;
   font-size: 16px;
-  background-color: #726f1a;
+  background-color: red;
   border: none;
   border-radius: 5px;
   cursor: pointer;
 }
 
 input[type="button"]:hover {
-  background-color: white;
+  background-color: yellow;
 }
 
 input[type="button"]:last-child {
